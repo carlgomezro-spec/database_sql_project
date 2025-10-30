@@ -21,7 +21,10 @@ El objetivo es adquirir experiencia práctica en el proceso completo de modelado
 
 ## 📸 Modelo Entidad-Realacion y Modelo Lógico
 
-<img width="978" height="567" alt="Captura de pantalla 2025-10-30 a las 9 11 43" src="https://github.com/user-attachments/assets/704c8ecc-565b-4ab2-bbcc-11a7c2eac1c5" /><img width="1000" height="528" alt="Captura de pantalla 2025-10-30 a las 9 11 50" src="https://github.com/user-attachments/assets/0b38d22b-4d5b-4906-a87c-a660b68407ab" />
+<img width="1466" height="521" alt="Captura de pantalla 2025-10-30 a las 19 40 49" src="https://github.com/user-attachments/assets/6825ef66-9dab-4c21-a63a-497b7afaff9f" />
+
+<img width="1048" height="627" alt="Captura de pantalla 2025-10-30 a las 19 38 46" src="https://github.com/user-attachments/assets/bbedcc59-bdb1-4e92-b13e-e0aa1571aa7d" />
+
 
 
 ## 🔧 Funcionalidades futuras
